@@ -1,0 +1,14 @@
+D:\c# repo\patterns_ex\AbonentAccount\obj\Debug\net8.0\AbonentAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# repo\patterns_ex\AbonentAccount\obj\Debug\net8.0\AbonentAccount.AssemblyInfoInputs.cache
+D:\c# repo\patterns_ex\AbonentAccount\obj\Debug\net8.0\AbonentAccount.AssemblyInfo.cs
+D:\c# repo\patterns_ex\AbonentAccount\obj\Debug\net8.0\AbonentAccount.csproj.CoreCompileInputs.cache
+D:\c# repo\patterns_ex\AbonentAccount\bin\Debug\net8.0\AbonentAccount.exe
+D:\c# repo\patterns_ex\AbonentAccount\bin\Debug\net8.0\AbonentAccount.deps.json
+D:\c# repo\patterns_ex\AbonentAccount\bin\Debug\net8.0\AbonentAccount.runtimeconfig.json
+D:\c# repo\patterns_ex\AbonentAccount\bin\Debug\net8.0\AbonentAccount.dll
+D:\c# repo\patterns_ex\AbonentAccount\bin\Debug\net8.0\AbonentAccount.pdb
+D:\c# repo\patterns_ex\AbonentAccount\obj\Debug\net8.0\AbonentAccount.dll
+D:\c# repo\patterns_ex\AbonentAccount\obj\Debug\net8.0\refint\AbonentAccount.dll
+D:\c# repo\patterns_ex\AbonentAccount\obj\Debug\net8.0\AbonentAccount.pdb
+D:\c# repo\patterns_ex\AbonentAccount\obj\Debug\net8.0\AbonentAccount.genruntimeconfig.cache
+D:\c# repo\patterns_ex\AbonentAccount\obj\Debug\net8.0\ref\AbonentAccount.dll

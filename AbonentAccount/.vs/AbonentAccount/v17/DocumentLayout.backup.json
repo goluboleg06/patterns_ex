@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# repo\\patterns_ex\\AbonentAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA75E2F6-2368-4D31-B90A-71B295D49ADE}|AbonentAccount.csproj|d:\\c# repo\\patterns_ex\\abonentaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA75E2F6-2368-4D31-B90A-71B295D49ADE}|AbonentAccount.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA75E2F6-2368-4D31-B90A-71B295D49ADE}|AbonentAccount.csproj|d:\\c# repo\\patterns_ex\\abonentaccount\\activestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA75E2F6-2368-4D31-B90A-71B295D49ADE}|AbonentAccount.csproj|solutionrelative:activestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA75E2F6-2368-4D31-B90A-71B295D49ADE}|AbonentAccount.csproj|d:\\c# repo\\patterns_ex\\abonentaccount\\inactivestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA75E2F6-2368-4D31-B90A-71B295D49ADE}|AbonentAccount.csproj|solutionrelative:inactivestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA75E2F6-2368-4D31-B90A-71B295D49ADE}|AbonentAccount.csproj|d:\\c# repo\\patterns_ex\\abonentaccount\\internetaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA75E2F6-2368-4D31-B90A-71B295D49ADE}|AbonentAccount.csproj|solutionrelative:internetaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA75E2F6-2368-4D31-B90A-71B295D49ADE}|AbonentAccount.csproj|d:\\c# repo\\patterns_ex\\abonentaccount\\iaccountstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA75E2F6-2368-4D31-B90A-71B295D49ADE}|AbonentAccount.csproj|solutionrelative:iaccountstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccountState.cs",
+              "DocumentMoniker": "D:\\c# repo\\patterns_ex\\AbonentAccount\\IAccountState.cs",
+              "RelativeDocumentMoniker": "IAccountState.cs",
+              "ToolTip": "D:\\c# repo\\patterns_ex\\AbonentAccount\\IAccountState.cs",
+              "RelativeToolTip": "IAccountState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:32:25.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InactiveState.cs",
+              "DocumentMoniker": "D:\\c# repo\\patterns_ex\\AbonentAccount\\InactiveState.cs",
+              "RelativeDocumentMoniker": "InactiveState.cs",
+              "ToolTip": "D:\\c# repo\\patterns_ex\\AbonentAccount\\InactiveState.cs",
+              "RelativeToolTip": "InactiveState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:33:35.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActiveState.cs",
+              "DocumentMoniker": "D:\\c# repo\\patterns_ex\\AbonentAccount\\ActiveState.cs",
+              "RelativeDocumentMoniker": "ActiveState.cs",
+              "ToolTip": "D:\\c# repo\\patterns_ex\\AbonentAccount\\ActiveState.cs",
+              "RelativeToolTip": "ActiveState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:32:53.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InternetAccount.cs",
+              "DocumentMoniker": "D:\\c# repo\\patterns_ex\\AbonentAccount\\InternetAccount.cs",
+              "RelativeDocumentMoniker": "InternetAccount.cs",
+              "ToolTip": "D:\\c# repo\\patterns_ex\\AbonentAccount\\InternetAccount.cs",
+              "RelativeToolTip": "InternetAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:31:43.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# repo\\patterns_ex\\AbonentAccount\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\c# repo\\patterns_ex\\AbonentAccount\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T09:25:40.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
